@@ -1,2 +1,1 @@
-var = '3'
-function GetData {}
+alert('I am javascript');
